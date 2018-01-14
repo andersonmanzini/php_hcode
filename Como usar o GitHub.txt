@@ -1,0 +1,42 @@
+Clonar um Repositório
+
+git clone "URL"
+_________________________________________________________________________
+Criar um repositório e adicionar ao Stage area antes de enviar ao GitHub
+
+1º Acessar a pasta do projeto via prompt:
+
+git init
+
+git add nome_arquivo.ext ou git add --all
+
+git commit -m "DESCRIÇÃO"
+
+_________________________________________________________________________
+Enviar ao GitHub
+
+git remote add origin URL
+
+git config --global user.name "NOME"
+
+git config --global user.email "EMAIL"
+
+git push origin master (Vai pedir login)
+_________________________________________________________________________
+Atualizar o repositório pelo GitHub
+
+git pull origin master
+_________________________________________________________________________
+Atualizar o Repositório pelo PC
+
+git add -all
+
+git commit -m "DESCRIÇÃO"
+
+git push origin master (se der conflito de versão)
+
+git pull origin master (editar o arquivo)
+
+git add --all
+
+git commit -m "DESCRIÇÃO"
