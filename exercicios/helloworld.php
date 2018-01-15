@@ -11,8 +11,8 @@
 
 <?php
 
-	echo "Hello World!";
-	echo "<br><br>";
+	echo "Hello World! <br><br>";
+
 	echo "Olá Mundo!";
 	
 ?>
@@ -20,6 +20,7 @@
 	<ul>
 		<li><a href="../index.php">Voltar</a></li>
 	</ul>
+	
 </body>
 </html>
 
