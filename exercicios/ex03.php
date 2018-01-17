@@ -7,7 +7,7 @@
 </header>
 
 <body>
-	<h1>Concatenar e atribuir valores às variáveis</h1>
+	<h1>Tipos de Dados</h1>
 
 <?php
 
@@ -20,7 +20,19 @@
 
 	$frutas = array('abacaxi', 'laranja', 'manga');
 
-	echo $frutas[0];
+	//echo $frutas[0];
+
+	//Orientação a Objeto
+	$nascimento = new DateTime();
+
+	//var_dump($nascimento);
+	//////////////////////////////////////////////////////////////
+
+	$arquivo = fopen("ex03.php", "r");
+
+	//var_dump($arquivo);
+
+	$nulo = NULL;
 		
 ?>
 

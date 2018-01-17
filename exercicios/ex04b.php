@@ -7,21 +7,20 @@
 </header>
 
 <body>
-	<h1>Curso de PHP Completo - HCODE</h1>
+	<h1>Recebendo IP e Arquivo</h1>
 
 <?php
-
-	echo "Hello World! <br><br>";
-
-	echo "Olá Mundo!";
 	
+	$ip = $_SERVER["REMOTE_ADDR"];
+	$id = $_SERVER["SCRIPT_NAME"];
+
+	echo $ip ."<br>" .$id;	
+			
 ?>
-	
+
 	<ul>
 		<li><a href="../index.php">Voltar</a></li>
 	</ul>
 
 </body>
 </html>
-
-
