@@ -8,7 +8,7 @@
 
 <body>
 
-	<h1>Curso de PHP Completo - HCODE</h1>
+	<h1>Curso de PHP Completo HCODE - HOME</h1>
 
 	<ul>
 		<li><a href="exercicios/helloworld.php">Hello World</a></li>
@@ -17,7 +17,9 @@
 		<li><a href="exercicios/ex03.php">Exercício 03</a></li>
 		<li><a href="exercicios/ex04.php">Exercício 04</a></li>
 		<li><a href="exercicios/ex04b.php">Exercício 04b</a></li>
-		<li><a href="exercicios/ex05.php">Exercício 05</a></li>
+		<li><a href="exercicios/ex05.php">Exercício 05</a></li><br>
+		<li><a href="operadores/operadores.php">Operadores</a></li><br>
+		<li><a href="strings/strings.php">Strings</a></li><br>
 	</ul>
 
 </body>
