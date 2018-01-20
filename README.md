@@ -1,3 +1,2 @@
 # php_hcode
-Curso PHP Udemy Hcode
-Arquivos contendo exercícios relacionados ao Curso Udemy - HCODE
+Arquivos com conteudo relacionados ao Curso PHP Udemy Hcode.
