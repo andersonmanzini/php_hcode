@@ -20,6 +20,8 @@
 		<li><a href="exercicios/ex05.php">Exercício 05</a></li><br>
 		<li><a href="operadores/operadores.php">Operadores</a></li><br>
 		<li><a href="strings/strings.php">Strings</a></li><br>
+		<li><a href="include/include.php">Include</a></li><br>
+		<li><a href="estruturas/estruturas.php">Estruturas de Controle e Repetição</a></li><br>
 	</ul>
 
 </body>

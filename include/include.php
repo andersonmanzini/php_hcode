@@ -8,13 +8,11 @@
 
 <body>
 
-	<h1>Curso de PHP Completo HCODE - Strings</h1>
+	<h1>Include</h1>
 
 	<ul>
-		<li><a href="st01.php">Strings 01</a></li>
-		<li><a href="st02.php">Strings 02</a></li>
-		<li><a href="st03.php">Strings 03</a></li>
-		
+		<li><a href="inc01.php">Include 01</a></li>
+				
 		<li><a href="../index.php">Principal</a></li>
 	</ul>
 
